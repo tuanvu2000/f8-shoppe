@@ -1055,6 +1055,7 @@
     font-weight: 300;
     user-select: none;
     -webkit-user-select: none;
+    padding: 0 6px;
 }
 
 /* Home sort + filter */
