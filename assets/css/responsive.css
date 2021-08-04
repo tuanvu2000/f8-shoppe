@@ -43,6 +43,10 @@
     .mobile-category {
         display: block;
     }
+
+    .header__mobile-info {
+        display: block;
+    }
 }
 
 /* Tablet */
